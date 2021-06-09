@@ -1,0 +1,20 @@
+﻿Meta-Commits
+============
+Günther Brunthaler
+v2020.12
+
+This version-controlled branch (with UUID
+qhs03buett12xusmwmh94jghc) contains a list of the newest commits
+of most (optimally all) of my public repositories, for quick
+update checks without polling individual repositories.
+
+The basic idea has been borrowed from the lists of available
+packages in many Linux distributions.
+
+Instead of polling for updates from every version-controlled
+branch which has been checked-out locally, just poll THIS branch
+and update it if necessary.
+
+Then you have a list of the latest commits, and can quickly
+determine which of your check-outs is still up-to-date and which
+ones are not.
