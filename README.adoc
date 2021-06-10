@@ -1,7 +1,7 @@
 ﻿Meta-Commits
 ============
 Günther Brunthaler
-v2020.12
+v2020.12.1
 
 This version-controlled branch (with UUID
 qhs03buett12xusmwmh94jghc) contains a list of the newest commits
@@ -16,5 +16,5 @@ branch which has been checked-out locally, just poll THIS branch
 and update it if necessary.
 
 Then you have a list of the latest commits, and can quickly
-determine which of your check-outs is still up-to-date and which
-ones are not.
+determine offline which of your check-outs is still up-to-date
+and which ones are not.
