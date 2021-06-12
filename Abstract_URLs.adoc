@@ -1,0 +1,100 @@
+Abstract URLs
+=============
+v2021.357.2
+
+Whether they are hosted on GitHub or elsewhere, the repositories use an 
+indirection step when used as remote URLs in a Git repository (or 
+submodule).
+
+This indirection consist of prefixing the GitHub repository basename 
+with the constant URI-prefix
+
+....
+tag:xworld.mine.nu,2009:
+....
+
+This prefix can be redirected to GitHub using one the following sections in 
+`~/.gitconfig`:
+
+----
+[url "git@github.com:guenther-brunthaler/"]
+        insteadof = tag:xworld.mine.nu,2009:
+----
+
+for private read/write access, or
+
+----
+[url "https://github.com/guenther-brunthaler/"]
+        insteadof = tag:xworld.mine.nu,2009:
+----
+
+for just public read access.
+
+Similar redirections can be added for connecting to mirror- and backup- sites.
+
+
+Example:
+
+This repository has the GitHub project name
+
+....
+tilde_root-someplace-meta--commits-qhs03buett12xusmwmh94jghc
+....
+
+Its abstract URL is
+
+....
+tag:xworld.mine.nu,2009:tilde_root-someplace-meta--commits-qhs03buett12xusmwmh94jghc.git
+....
+
+which can, using the `~/.gitconfig` variants from above, resolve either into
+
+....
+git@github.com:guenther-brunthaler/tilde_root-someplace-meta--commits-qhs03buett12xusmwmh94jghc.git
+....
+
+or into
+
+....
+https://github.com/guenther-brunthaler/tilde_root-someplace-meta--commits-qhs03buett12xusmwmh94jghc.git
+....
+
+
+Abstract Name Composition
+-------------------------
+
+Between the constant `tag:`-URI prefix and the `.git`-suffix, the 
+actual GitHub project name encodes a path where to (typically) store 
+the repository when checking it out somewhere.
+
+* Single dashes (`-`) represent directory separators, i.e. 
+  `/`-characters in the actual path name.
+
+* Double dashes (`--`) represent single dashes (`-`) in the actual path 
+  name. In other words, they need to be doubled.
+
+* Double underscores (`__`) represent single underscores (`_`) in the 
+  actual path name. Thus they need to be doubled, too.
+
+* Prefix `tilde_` creates a leading tilde in the pathname, which means 
+  a $HOME directory either for a particular (e.g. `tilde_root` means 
+  `~root`) or for the default user (named `anyone`, thus `tilde_anyone` 
+  means `~anyone` which is the $HOME directory for that general-purpose 
+  user).
+
+* Similar to user `anyone` which is used to specify a generic user 
+  $HOME directory as a base, a path `someplace` can be used to specify 
+  that there is no particular location where this branch has to be 
+  checked out. It is also common to root a base path using `someplace` 
+  at some non-fixed location, yet define a subdirectory structure there 
+  by appending specific path components after the `someplace`-part.
+
+* Prefix `dot_` will be subsituted for a leading dot (`.`) in the 
+  actual pathname, representing a hidden file or subdirectory.
+
+* Infix `-branch_` separates the actual pathname from a branch name. 
+  This means that all branches should be cheched out into the same 
+  repository. The part before the `-branch_` represents the path to the 
+  repository.
+
+The above can all be combined.
