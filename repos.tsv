@@ -1,74 +1,74 @@
-!encryption-level(ascii_sort_key_1)	per-line-revision	checkout/merge-suggestion(ascii_sort_key_2)	tag-url(ascii_sort_key_3)
--1	1	$PROJECTS/Boot_Redirector	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/Boot_Redirector-t68wndsekcup6424yxgc7zznu.git
--1	1	$PROJECTS/Org/UserGuides/BusyBox	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/Org-UserGuides-BusyBox-f4rr4w05f537zl69v3m4l7kbs.git
--1	1	$PROJECTS/Org/UserGuides/unix_shell_advice	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/Org-UserGuides-unix_shell_advice-u41qdj1iu8uar4hrnj9t660da.git
--1	1	$PROJECTS/a4x	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/a4x-9slawn4w20gvlddf89md6ak1f.git
--1	1	$PROJECTS/aproto	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/aproto-l7vfs5nzmiupwq2w9hm3e4kw0.git
--1	1	$PROJECTS/apt_sync_inst_packages	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/apt_sync_inst_packages-eiguxm7st57kiygv0r77ssbt6.git
--1	1	$PROJECTS/arcfour16-drop786432-middle8	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/arcfour16-drop786432-middle8-897l48wgp8rlnma8ka5kwihf6.git
--1	1	$PROJECTS/base62	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/base62-rdjm3uzvz04szpev0d79prb2n.git
--1	1	$PROJECTS/busybox-customization-configs	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/busybox-customization-configs-n44pz19cqa6l6ysp8digg6ifs.git
--1	1	$PROJECTS/busybox-customization	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/busybox-customization-iw1rm9hy62q2eu5rtrxis446y.git
--1	1	$PROJECTS/c_function_attributes	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/c_function_attributes-l7eabiq3jl9qjq36kjpgzpmum.git
--1	1	$PROJECTS/cdevelop_setflags	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/cdevelop_setflags-hhtquj59htskz59kxdtlxe46w.git
--1	1	$PROJECTS/csv2rfl	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/csv2rfl-bnyemvm0sl4y1p0m843euzm8d.git
--1	1	$PROJECTS/debian-package-collection	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/debian-package-collection-jfzl9zgnzg0hfpyip0rwvn06a.git
--1	1	$PROJECTS/debootstrap-helper	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/debootstrap-helper-um488rt7p1u1fg01j5nay14hc.git
--1	1	$PROJECTS/desktop_entries_shared	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/desktop_entries_shared-rvi5nrubfev5c8av4dp9gy69v.git
--1	1	$PROJECTS/diffprep	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/diffprep-42xvcdvux5ymced1m2uind4tt.git
--1	1	~/.homedir	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-fluxbox-hl3rim1gqwhtygbgfpq6dksjq.git
--1	1	~/.homedir	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-htop-0ky5gi6ic9rw4tp9b1y1elfsw.git
--1	1	~/.homedir	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-lynx-cz3jd7fumt10hgyxqr0gk5bg5.git
--1	1	~/.homedir	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-sync_symlinks-l9em4rm4c63capbtrm88f1r2u.git
--1	1	~/.homedir	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-vim-fe9ld80lhrzhc4xlr03zcec00.git
--1	1	~/.homedir	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-x11_user_settings-pgtps882liy2deeg3x9i8bizm.git
--1	1	~/.homedir	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-xinitrc-busccqs4yxg4thz5ikvie4zsi.git
--1	1	$PROJECTS/emret	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/emret-lshrrn6qiakwi49ylrbv4fgyx.git
--1	1	/etc	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/etc-branches-dpkg_diversions-b57i246zy0yk099rtlprzlk2q.git
--1	1	/etc	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/etc-branches-lifetime_writes-h9lcq8ep9i66ppfwklez1dma2.git
--1	1	/etc	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/etc-branches-logrotate-f2uus09aratd6glah61wif7el.git
--1	1	/etc	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/etc-branches-persistent_live_patcher-p1qc4h9lc1pndzcfauudk94s4.git
--1	1	$PROJECTS/fuzzy-search	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/fuzzy-search-6cvtuxm0hulqcbp0ac85y1j3l.git
--1	1	$PROJECTS/gbkdf	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/gbkdf-l75qmzimwuqwtu04suqgnivp6.git
--1	1	$PROJECTS/gbproto	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/gbproto-a59wjhkmtyqmnuhnbrgqqh3lb.git
--1	1	$PROJECTS/guenther-brunthalerhub.io	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/guenther-brunthaler.github.io
--1	1	/home/project/admdevel/archive/cmdline	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/home-project-admdevel-archive-cmdline-aysswlfsft0s6fdw1y8nwkm54.git
--1	1	/home/project/admdevel/bin	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/home-project-admdevel-bin-jyvns6biyv4ehy1vsqeiveejh.git
--1	1	/home/project/admdevel/lib/site_perl	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/home-project-admdevel-lib-site_perl-p7nl8vi9jrl15d8rjf7k6slrn.git
--1	1	/home/project/admdevel/scripts	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/home-project-admdevel-scripts-l75qmzimwuqwtu04suqgnivp6.git
--1	1	$PROJECTS/hproto	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/hproto-1pnnyslxuaisvwiqiu0urzwdk.git
--1	1	$PROJECTS/linux-script-templates	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/linux-script-templates-fxv0d9byi96e2ekbd396x2gty.git
--1	1	$PROJECTS/longest_run	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/longest_run-ghn3glmpt5ufyzr92amp82dyh.git
--1	1	$PROJECTS/make_automation	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/make_automation-897l48wgp8rlnma8ka5kwihf6.git
--1	1	$PROJECTS/mediatester	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/mediatester-1pc7146bit41pzw1wxglv52a8.git
--1	1	$PROJECTS/gbr-meta-commits	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/meta-commits-qhs03buett12xusmwmh94jghc.git
--1	1	$PROJECTS/modexp	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/modexp-2fg2id73y3ayyhu66ungjwu10.git
--1	1	$PROJECTS/r4g	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/r4g-e5u3dvgiysepdea4wb3f2bqf8.git
--1	1	$PROJECTS/rename-utils	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/rename-utils-azzh49nlwvte0i3nv9q49krjx.git
--1	1	$PROJECTS/resource_control	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/resource_control-5ji8frnqxtgqejeih7dg2fzdz.git
--1	1	$PROJECTS/revbytes	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/revbytes-hkfzshafy7b5p1zthbjvanydm.git
--1	1	~/.local/bin/local/rsync-serve-apt-cache	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/rsync-serve-apt-cache-tmh2d8c9vrx8iefucwsjzgfn1.git
--1	1	$PROJECTS/rundeps	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/rundeps-avvbpq21aki91sj25c7em9acb.git
--1	1	$PROJECTS/sha256-summer	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/sha256-summer-d33nhzzwaivkb7zsjupvlqevf.git
--1	1	/usr/local/etc/shellrc	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/shellrc-raxjyvp9gv2krg9ltyrqyvxuf.git
--1	1	$PROJECTS/snippets/awk/varint	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/snippets_awk_varint-adnqxbnrfclpi7g3y7zn26m1h.git
--1	1	$PROJECTS/snippets/sh_generic	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/snippets_sh_generic-ag0e7shzq1rsmriq8exv27c60.git
--1	1	$PROJECTS/snippets/sh_with_awk	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/snippets_sh_with_awk-bnmuyfmzwhdbz5tpsqt3ugz20.git
--1	1	$PROJECTS/source_level_linker	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/source_level_linker-cj6qkzi92umbg3jwb5slxhwlh.git
--1	1	$PROJECTS/ssl_pki	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/ssl_pki-dajhgna82z9cx6kwy6yalncmt.git
--1	1	$PROJECTS/str_fmt	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/str_fmt-c08vlf6ljs7c36sd8ra4dq0jt.git
--1	1	$PROJECTS/tar_tcp	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/tar_tcp-ixnr07gte2j1trv8hwvctbpip.git
--1	1	$PROJECTS/trivial_filesystem	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/trivial_filesystem-j5332hkcsy3kc5u53vlqnbzlh.git
--1	1	$PROJECTS/uplm	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/uplm-dyeg6r0e3fkjm3jmruu7dxvaj.git
--1	1	/usr/local/bin/xworld	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-bin-xworld-jv3gwuidf2ezyr5vbqavqtxyh.git
--1	1	/usr/local/bin/xworld_debian	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-bin-xworld_debian-mwkvzw1aut5wtrn8qj00r3n20.git
--1	1	/usr/local/bin/xworld_raspbian	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-bin-xworld_raspbian-l3nayn4063rcnis8dcr7xa48g.git
--1	1	/usr/local/etc/features	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-etc-features-hml46rntp4etzxla7pxzc6rj0.git
--1	1	/usr/local/etc/xworld	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-etc-xworld-i99np90tmmdbkelxz73lskk31.git
--1	1	/usr/local/libexec/xworld	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-libexec-xworld-qxmubuysqa30u0q0iia8wuk90.git
--1	1	/usr/local/libexec/xworld_debian	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-libexec-xworld_debian-1grttl7suj3lu607wqm792a9m.git
--1	1	/usr/local/sbin/xworld	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-sbin-xworld-kc9tlsxdgsgaaydrhzc10qr7p.git
--1	1	/usr/local/sbin/xworld_debian	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-sbin-xworld_debian-i7plqrb7887azjcnxws0tsve0.git
--1	1	/usr/local/sbin/xworld_raspbian	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-sbin-xworld_raspbian-kfxvie4bshkb2va3n8jj2sj63.git
--1	1	/usr/local/share/xworld	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-share-xworld-u6u5lfxkqqf8e2mjaudapd4al.git
--1	1	$PROJECTS/xor	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/xor-cf2zlsdq0ugih22btavmfgg23.git
+!1:encryption-level(ascii_sort_key_1)	2:per-line-revision	3:checkout-suggestion(ascii_sort_key_2)	4:merge-branch-nickname(ascii_sort_key_3)	5:tag-url(ascii_sort_key_4)
+-1	1	$PROJECTS/Boot_Redirector	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/Boot_Redirector-t68wndsekcup6424yxgc7zznu.git
+-1	1	$PROJECTS/Org/UserGuides/BusyBox	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/Org-UserGuides-BusyBox-f4rr4w05f537zl69v3m4l7kbs.git
+-1	1	$PROJECTS/Org/UserGuides/unix_shell_advice	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/Org-UserGuides-unix_shell_advice-u41qdj1iu8uar4hrnj9t660da.git
+-1	1	$PROJECTS/a4x	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/a4x-9slawn4w20gvlddf89md6ak1f.git
+-1	1	$PROJECTS/aproto	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/aproto-l7vfs5nzmiupwq2w9hm3e4kw0.git
+-1	1	$PROJECTS/apt_sync_inst_packages	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/apt_sync_inst_packages-eiguxm7st57kiygv0r77ssbt6.git
+-1	1	$PROJECTS/arcfour16-drop786432-middle8	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/arcfour16-drop786432-middle8-897l48wgp8rlnma8ka5kwihf6.git
+-1	1	$PROJECTS/base62	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/base62-rdjm3uzvz04szpev0d79prb2n.git
+-1	1	$PROJECTS/busybox-customization	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/busybox-customization-iw1rm9hy62q2eu5rtrxis446y.git
+-1	1	$PROJECTS/busybox-customization-configs	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/busybox-customization-configs-n44pz19cqa6l6ysp8digg6ifs.git
+-1	1	$PROJECTS/c_function_attributes	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/c_function_attributes-l7eabiq3jl9qjq36kjpgzpmum.git
+-1	1	$PROJECTS/cdevelop_setflags	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/cdevelop_setflags-hhtquj59htskz59kxdtlxe46w.git
+-1	1	$PROJECTS/csv2rfl	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/csv2rfl-bnyemvm0sl4y1p0m843euzm8d.git
+-1	1	$PROJECTS/debian-package-collection	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/debian-package-collection-jfzl9zgnzg0hfpyip0rwvn06a.git
+-1	1	$PROJECTS/debootstrap-helper	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/debootstrap-helper-um488rt7p1u1fg01j5nay14hc.git
+-1	1	$PROJECTS/desktop_entries_shared	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/desktop_entries_shared-rvi5nrubfev5c8av4dp9gy69v.git
+-1	1	$PROJECTS/diffprep	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/diffprep-42xvcdvux5ymced1m2uind4tt.git
+-1	1	$PROJECTS/emret	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/emret-lshrrn6qiakwi49ylrbv4fgyx.git
+-1	1	$PROJECTS/fuzzy-search	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/fuzzy-search-6cvtuxm0hulqcbp0ac85y1j3l.git
+-1	1	$PROJECTS/gbkdf	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/gbkdf-l75qmzimwuqwtu04suqgnivp6.git
+-1	1	$PROJECTS/gbproto	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/gbproto-a59wjhkmtyqmnuhnbrgqqh3lb.git
+-1	1	$PROJECTS/gbr-meta-commits	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/meta-commits-qhs03buett12xusmwmh94jghc.git
+-1	1	$PROJECTS/guenther-brunthalerhub.io	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/guenther-brunthaler.github.io
+-1	1	$PROJECTS/hproto	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/hproto-1pnnyslxuaisvwiqiu0urzwdk.git
+-1	1	$PROJECTS/linux-script-templates	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/linux-script-templates-fxv0d9byi96e2ekbd396x2gty.git
+-1	1	$PROJECTS/longest_run	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/longest_run-ghn3glmpt5ufyzr92amp82dyh.git
+-1	1	$PROJECTS/make_automation	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/make_automation-897l48wgp8rlnma8ka5kwihf6.git
+-1	1	$PROJECTS/mediatester	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/mediatester-1pc7146bit41pzw1wxglv52a8.git
+-1	1	$PROJECTS/modexp	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/modexp-2fg2id73y3ayyhu66ungjwu10.git
+-1	1	$PROJECTS/r4g	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/r4g-e5u3dvgiysepdea4wb3f2bqf8.git
+-1	1	$PROJECTS/rename-utils	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/rename-utils-azzh49nlwvte0i3nv9q49krjx.git
+-1	1	$PROJECTS/resource_control	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/resource_control-5ji8frnqxtgqejeih7dg2fzdz.git
+-1	1	$PROJECTS/revbytes	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/revbytes-hkfzshafy7b5p1zthbjvanydm.git
+-1	1	$PROJECTS/rundeps	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/rundeps-avvbpq21aki91sj25c7em9acb.git
+-1	1	$PROJECTS/sha256-summer	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/sha256-summer-d33nhzzwaivkb7zsjupvlqevf.git
+-1	1	$PROJECTS/snippets/awk/varint	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/snippets_awk_varint-adnqxbnrfclpi7g3y7zn26m1h.git
+-1	1	$PROJECTS/snippets/sh_generic	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/snippets_sh_generic-ag0e7shzq1rsmriq8exv27c60.git
+-1	1	$PROJECTS/snippets/sh_with_awk	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/snippets_sh_with_awk-bnmuyfmzwhdbz5tpsqt3ugz20.git
+-1	1	$PROJECTS/source_level_linker	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/source_level_linker-cj6qkzi92umbg3jwb5slxhwlh.git
+-1	1	$PROJECTS/ssl_pki	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/ssl_pki-dajhgna82z9cx6kwy6yalncmt.git
+-1	1	$PROJECTS/str_fmt	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/str_fmt-c08vlf6ljs7c36sd8ra4dq0jt.git
+-1	1	$PROJECTS/tar_tcp	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/tar_tcp-ixnr07gte2j1trv8hwvctbpip.git
+-1	1	$PROJECTS/trivial_filesystem	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/trivial_filesystem-j5332hkcsy3kc5u53vlqnbzlh.git
+-1	1	$PROJECTS/uplm	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/uplm-dyeg6r0e3fkjm3jmruu7dxvaj.git
+-1	1	$PROJECTS/xor	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/xor-cf2zlsdq0ugih22btavmfgg23.git
+-1	1	/etc	dpkg_diversions	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/etc-branches-dpkg_diversions-b57i246zy0yk099rtlprzlk2q.git
+-1	1	/etc	lifetime_writes	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/etc-branches-lifetime_writes-h9lcq8ep9i66ppfwklez1dma2.git
+-1	1	/etc	logrotate	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/etc-branches-logrotate-f2uus09aratd6glah61wif7el.git
+-1	1	/etc	persistent_live_patcher	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/etc-branches-persistent_live_patcher-p1qc4h9lc1pndzcfauudk94s4.git
+-1	1	/home/project/admdevel/archive/cmdline	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/home-project-admdevel-archive-cmdline-aysswlfsft0s6fdw1y8nwkm54.git
+-1	1	/home/project/admdevel/bin	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/home-project-admdevel-bin-jyvns6biyv4ehy1vsqeiveejh.git
+-1	1	/home/project/admdevel/lib/site_perl	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/home-project-admdevel-lib-site_perl-p7nl8vi9jrl15d8rjf7k6slrn.git
+-1	1	/home/project/admdevel/scripts	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/home-project-admdevel-scripts-l75qmzimwuqwtu04suqgnivp6.git
+-1	1	/usr/local/bin/xworld	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-bin-xworld-jv3gwuidf2ezyr5vbqavqtxyh.git
+-1	1	/usr/local/bin/xworld_debian	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-bin-xworld_debian-mwkvzw1aut5wtrn8qj00r3n20.git
+-1	1	/usr/local/bin/xworld_raspbian	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-bin-xworld_raspbian-l3nayn4063rcnis8dcr7xa48g.git
+-1	1	/usr/local/etc/features	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-etc-features-hml46rntp4etzxla7pxzc6rj0.git
+-1	1	/usr/local/etc/shellrc	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/shellrc-raxjyvp9gv2krg9ltyrqyvxuf.git
+-1	1	/usr/local/etc/xworld	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-etc-xworld-i99np90tmmdbkelxz73lskk31.git
+-1	1	/usr/local/libexec/xworld	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-libexec-xworld-qxmubuysqa30u0q0iia8wuk90.git
+-1	1	/usr/local/libexec/xworld_debian	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-libexec-xworld_debian-1grttl7suj3lu607wqm792a9m.git
+-1	1	/usr/local/sbin/xworld	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-sbin-xworld-kc9tlsxdgsgaaydrhzc10qr7p.git
+-1	1	/usr/local/sbin/xworld_debian	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-sbin-xworld_debian-i7plqrb7887azjcnxws0tsve0.git
+-1	1	/usr/local/sbin/xworld_raspbian	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-sbin-xworld_raspbian-kfxvie4bshkb2va3n8jj2sj63.git
+-1	1	/usr/local/share/xworld	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/usr-local-share-xworld-u6u5lfxkqqf8e2mjaudapd4al.git
+-1	1	~/.homedir	fluxbox	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-fluxbox-hl3rim1gqwhtygbgfpq6dksjq.git
+-1	1	~/.homedir	htop	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-htop-0ky5gi6ic9rw4tp9b1y1elfsw.git
+-1	1	~/.homedir	lynx	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-lynx-cz3jd7fumt10hgyxqr0gk5bg5.git
+-1	1	~/.homedir	sync_symlinks	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-sync_symlinks-l9em4rm4c63capbtrm88f1r2u.git
+-1	1	~/.homedir	vim	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-vim-fe9ld80lhrzhc4xlr03zcec00.git
+-1	1	~/.homedir	x11_user_settings	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-x11_user_settings-pgtps882liy2deeg3x9i8bizm.git
+-1	1	~/.homedir	xinitrc	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/dot-homedir-branches-xinitrc-busccqs4yxg4thz5ikvie4zsi.git
+-1	1	~/.local/bin/local/rsync-serve-apt-cache	-	tag:xworld.mine.nu,2009:scm-5f4fz8fy8uzjenltats46r20e/rsync-serve-apt-cache-tmh2d8c9vrx8iefucwsjzgfn1.git

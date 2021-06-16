@@ -1,0 +1,4 @@
+#! /bin/sh
+. ./htab.sh \
+&& LC_COLLATE=C sort -o repos.tsv -t "$ht" -b -k 1,1 -k 3,5 repos.tsv \
+|| echo sort error >& 2
