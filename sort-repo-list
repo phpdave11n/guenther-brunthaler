@@ -2,8 +2,6 @@
 set -e
 trap 'test $? = 0 || echo "\"$0\" failed!" >& 2' 0
 . ./htab.sh
-if false
-then
 old_ifs=$IFS; old_flags=`set +o`
 set -f; IFS=$ht; set -- `head -n 1 repos.tsv`; IFS=$old_ifs; eval "$old_flags"
 i=$1; shift; set -- "${i#"!"}" ${1+"$@"}
@@ -15,50 +13,45 @@ do
 	k=${1##*sort*key_}; k=${k%")"}
 	case $k in
 		"$1") ;;
-		*) set -- "$@" `printf 's%0*u:%s,%s\n' $d $k $i $i`
+		*) set -- "$@" `printf 's%0*u:%s\n' $d $k $i`
 	esac
 	shift
 	i=`expr $i + 1`
 done
-fi
-# Sort positional arguments.
 case $# in
 	0 | 1) ;;
 	*)
 		set "$@" end; e=true
 		while :
 		do
-			: '>>> loop:' "e=$e," 'elements = [' "$@" ']'
 			case end in
 				"$1")
-					: '>>> $1 == "end"'
 					if $e
 					then
 						shift; break
 					fi
 					set -- "$@" "$1"; shift
-					: '>>> next sorting pass!'
 					e=true
 					;;
- 				"$2")
-					: '>>> $2 == "end"'
- 					set -- "$@" "$1"; shift
-					;;
+ 				"$2") set -- "$@" "$1"; shift;;
 				*)
-					: '>>> neither $1 nor $2 are "end"'
 					if expr "$1" \> "$2" > /dev/null
 					then
-						: '>>> elements not in order'
 						e=false; k=$1
 						set -- "$@" "$2"; shift 2
 						set -- "$k" "$@"
 					else
-						: '>>> elements are ordered'
 						set -- "$@" "$1"; shift
 					fi
 			esac
 		done
 esac
-echo $*
-exit
-LC_COLLATE=C sort -o repos.tsv -t "$ht" -b -k 1,1 -k 3,5 repos.tsv
+while :
+do
+	k=${1#*:}
+	case $k in
+		"$1") break;;
+		*) set -- "$@" "-k $k,$k" ; shift
+	esac
+done
+LC_COLLATE=C sort -o repos.tsv -t "$ht" -b ${1+"$@"} repos.tsv
