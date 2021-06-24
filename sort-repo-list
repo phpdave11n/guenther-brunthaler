@@ -30,20 +30,19 @@ case $# in
 					then
 						shift; break
 					fi
-					set -- "$@" "$1"; shift
 					e=true
 					;;
- 				"$2") set -- "$@" "$1"; shift;;
+ 				"$2") ;;
 				*)
 					if expr "$1" \> "$2" > /dev/null
 					then
 						e=false; k=$1
 						set -- "$@" "$2"; shift 2
 						set -- "$k" "$@"
-					else
-						set -- "$@" "$1"; shift
+						continue
 					fi
 			esac
+			set -- "$@" "$1"; shift
 		done
 esac
 while :
