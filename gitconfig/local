@@ -1,0 +1,2 @@
+[url "/srv/scm/replicas/"]
+	insteadOf = tag:xworld.mine.nu,2009:

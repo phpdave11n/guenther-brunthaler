@@ -1,0 +1,56 @@
+#! /bin/sh
+set -e
+trap 'test $? = 0 || echo "\"$0\" failed!" >& 2' 0
+. ./htab.sh
+old_ifs=$IFS; old_flags=`set +o`
+set -f; IFS=$ht; set -- `head -n 1 repos.tsv`; IFS=$old_ifs; eval "$old_flags"
+i=$1; shift; set -- "${i#"!"}" ${1+"$@"}
+i=1; e=`expr $# + 1`; d=${#e}
+while test $i != $e
+do
+	j=${1%%:*}
+	test $i = "$j"
+	k=${1##*sort*key_}; k=${k%")"}
+	case $k in
+		"$1") ;;
+		*) set -- "$@" `printf 's%0*u:%s\n' $d $k $i`
+	esac
+	shift
+	i=`expr $i + 1`
+done
+case $# in
+	0 | 1) ;;
+	*)
+		set "$@" end; e=true
+		while :
+		do
+			case end in
+				"$1")
+					if $e
+					then
+						shift; break
+					fi
+					e=true
+					;;
+ 				"$2") ;;
+				*)
+					if expr "$1" \> "$2" > /dev/null
+					then
+						e=false; k=$1
+						set -- "$@" "$2"; shift 2
+						set -- "$k" "$@"
+						continue
+					fi
+			esac
+			set -- "$@" "$1"; shift
+		done
+esac
+while :
+do
+	k=${1#*:}
+	case $k in
+		"$1") break;;
+		*) set -- "$@" "-k $k,$k" ; shift
+	esac
+done
+LC_COLLATE=C sort -o repos.tsv -t "$ht" -b ${1+"$@"} repos.tsv
